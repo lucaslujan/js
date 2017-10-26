@@ -1,4 +1,6 @@
 
+// Ejercicio 1 por mi //
+
 
 var numero1 = 10
 
@@ -24,3 +26,5 @@ alert ('La resta da'+ Resta + '!')
   var Sumando = parseFloat(Numeromas,10) + parseFloat(Numeromas2,10)
 
   alert(Sumando)
+
+
