@@ -10,7 +10,7 @@
 // var pedrito = [1, 'Juan', false, null, [], 3, 4, 'Clara', {}] //
 
 
-/*var persona = {nombre: 'Laura', apellido: 'Lopez', edad: 26, mayorDeEdad: true, hijos: [
+var persona = {nombre: 'Laura', apellido: 'Lopez', edad: 26, mayorDeEdad: true, hijos: [
 {nombre: 'Clara', apellido: 'Fernandez'},{nombre: 'Pedrito', apellido: 'Fernandez'}],
 direccion: {calle: 'Av. Gaona',altura: 1234}}
 

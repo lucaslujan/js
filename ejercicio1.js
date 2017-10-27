@@ -1,26 +1,39 @@
+// Pedir nombre mediante prompt y disparar un alert con algún texto más ->
 
+var firstName
 
-var numero1 = 10
+firstName = prompt('Escribí tu nombre:', 'Ej: Juan')
 
-var numero2 = prompt('Escribi un número' + 'Ejemplo:8')
+var message1 = 'Tu nombre es: ' + firstName + ' !'
 
-var suma = numero1 + parseFloat (numero2,10 )
+alert(message1)
 
-alert('La suma da' + suma + '!')
+// Pedir un número y sumarlo a otro que este en una variable ->
 
+var number1 = 5
 
+var number2 = prompt('Escribí un número:', 'Ej: 8')
 
-var numeroMenos = prompt('Escribi lo que va a restar'+ '!')
+var add1 = number1 + parseFloat(number2, 10)
 
-var Resta = numero1 - parseFloat(numeroMenos,10)
+alert('La suma del número guardado y el que ingresaste es: ' + add1 + ' !')
 
-alert ('La resta da'+ Resta + '!')
+// Pedir un número y restarlo a otro que este en una variable ->
 
+var number3 = prompt('Escribí un número:', 'Ej: 8')
 
-  var Numeromas = prompt('Escribi el primer numero para sumar')
+var sub = number1 - parseFloat(number3, 10)
 
-  var Numeromas2 = prompt('Escribi el segundo numero para sumar')
+alert('La resta del número guardado y el que ingresaste es: ' + sub + ' !')
 
-  var Sumando = parseFloat(Numeromas,10) + parseFloat(Numeromas2,10)
+// Pedir un número, luego otro y ambos sumarlos ->
 
-  alert(Sumando)
+var number4 = prompt('Escribí un número:', 'Ej: 8')
+
+var number5 = prompt('Escribí un número:', 'Ej: 8')
+
+var resultado = parseFloat(number4, 10) + parseFloat(number5, 10)
+
+alert('La suma de los dos números que ingresaste es: ' + resultado + ' !')
+
+alert('Completaste el ejercicio !')
