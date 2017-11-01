@@ -99,18 +99,18 @@
 //    break
 //}
 
-// Ciclo FOR (condicion, declaración, acción)
+ //Ciclo FOR (condicion, declaración, acción)
 
 //var numeros = 100
 // Estado inicial : una nueva variable i=0
 // Condicion: i <= numeros
 //Accion: i= i + 1 / le sumo 1 a i
-
- //for (var i = 0; i <= numeros; i = i + 1) {
- //  if (i > 50) {
- //    console.log(i)
- //  }
- //}
+//
+//for (var i = 0; i <= numeros; i = i + 1) {
+//  if (i > 50) {
+//    console.log(i)
+//  }
+//}
 
 // var nombres = [{ nombre: 'Adrian' }, { nombre: 'Diego' }]
 
@@ -137,12 +137,12 @@
  // DO WHILE
 
 
-var i = 30
-
-do {
-  console.log(i)
-  i++
-} while (i < 10)
+//var i = 30
+//
+//do {
+//  console.log(i)
+//  i++
+//} while (i < 10)
 
 //var numero1 = ')'
 

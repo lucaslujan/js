@@ -20,28 +20,28 @@
 //   return result
 // }
 
-// var numero = 2
+//var numero = 2
 
-// var cuadrado = calcCuadrado(numero)
+//var cuadrado = calcCuadrado(numero)
 
-// console.log('El resultado del cuadrado de ' + numero + ' es --> ' + cuadrado)
+//console.log('El resultado del cuadrado de ' + numero + ' es --> ' + cuadrado)
 
-// function calcCuadrado(value1) {
-//   var result = prod(value1, value1)
-//   return result
-// }
+//function calcCuadrado(value1) {
+//  var result = prod(value1, value1)
+//  return result
+//}
 
-// function prod(value1, value2) {
-//   var parsedValue1 = paseNumber(value1)
-//   var parsedValue2 = paseNumber(value2)
-//   var result = parsedValue1 * parsedValue2
-//   return result
-// }
+//function prod(value1, value2) {
+//  var parsedValue1 = paseNumber(value1)
+//  var parsedValue2 = paseNumber(value2)
+//  var result = parsedValue1 * parsedValue2
+//  return result
+//}
 
-// function paseNumber(value1) {
-//   var parsedValue1 = parseFloat(value1, 10)
-//   return parsedValue1
-// }
+//function paseNumber(value1) {
+//  var parsedValue1 = parseFloat(value1, 10)
+//  return parsedValue1
+//}
 
 // showMessage('Diego')
 
@@ -95,7 +95,7 @@
 
 // newConsoleLog.log('Juan')
 // var app = (function() {
-//   var sum = function(value1, value2) {
+//   var sum = function(value1, value2) {´lk
 //     var parsedValue1 = paseNumber(value1)
 //     var parsedValue2 = paseNumber(value2)
 //     return parsedValue1 + parsedValue2
